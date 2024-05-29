@@ -4,10 +4,10 @@ import datetime
 import matplotlib.pyplot as plt
 
 start_day = "2024-05-14"   #いつ計画を開始したいですか? (xxxx-xx-xx) /When do you want to start your plan?
-start_distance = 6.5   #どのくらいの距離からトレーニングを始めたいですか? /What distance you want to begin traning?
+start_distance = 6.5   #どのくらいの距離からトレーニングを始めたいですか? /What distance you want to begin training?
 cycle = 2  #各実行には何日かかりますか? /How many days for each run?
 increasing_rate = 0.03  #実行するたびにどのくらいの速度を上げたいですか? /What rate you want to incresing after each run?
-total_time = 54  #何日間のトレーニングを予定していますか? /How many day you plan for traning ?
+total_time = 54  #何日間のトレーニングを予定していますか? /How many day you plan for training ?
 language = 'English' #日本語/English
 unit = 'miles'  #キロ/マイル/km/miles、
 
